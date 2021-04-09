@@ -1,5 +1,8 @@
 console.log(123);
-funciton add(a,b){
+function add(a,b){
     return a+b;
 }
 console.log(3);
+function cut(a, b) {
+    return a - b;
+}
